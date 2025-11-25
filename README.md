@@ -22,8 +22,8 @@ Masih pemula — tapi suka membuat project kecil untuk meningkatkan skill dan me
 
 ## 🔹 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ForkenZ&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight" height="160" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=ForkenZ&show_icons=true&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonight)https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonighthttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonight" height="160" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ForkenZ&theme=tokyonight)" height="160" />
 </p>
 
 ---
