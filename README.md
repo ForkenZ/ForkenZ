@@ -1,12 +1,9 @@
-<!-- TITLE -->
 <h1 align="center">✨ Halo, Saya <span style="color:#8e5cff;">ForkenZ</span> ✨</h1>
 <p align="center">Pemula Yang Sedang Belajar HTML, CSS, Dan JavaScript</p>
 
-
-
 ## 🌙 Tentang Saya
-Saya Sedang Belajar Dasar-Dasar **HTML**, **CSS**, Dan **JavaScript**.  
-Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Memahami Cara Kerja We
+Saya Sedang Belajar Dasar-Dasar HTML, CSS, Dan JavaScript.  
+Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Meningkatkan Pemahaman Tentang Web.
 
 ## ⚡ Skill Yang Sedang Dipelajari
 <p align="left">
@@ -15,44 +12,26 @@ Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Me
   <img src="https://img.shields.io/badge/JavaScript-%23F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-> Logo Sudah Neon Dan Berwarna ✔
-
----
-
 ## 🚀 Projek Saya
-- 🔹 **Deteksi Mata** — MediaPipe + Alarm Ketika Mata Tertutup  
-- 🔹 **Cek Sehat** — Website Sederhana Untuk Mengecek Kesehatan Dasar  
+- 🔹 Deteksi Mata — MediaPipe + Alarm Ketika Mata Tertutup  
+- 🔹 Cek Sehat — Website Sederhana Untuk Mengecek Kesehatan Dasar
 
-Semua Masih Dasar, Tetapi Setiap Project Adalah Langkah Untuk Terus Belajar.
-
----
-
-## 📊 Statistik GitHub (Versi Stabil)
-> Menggunakan Mirror Stabil Agar Selalu Muncul
-
+## 📊 Statistik GitHub
 <p align="center">
   <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=ForkenZ&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 📈 Ringkasan Aktivitas
-> Versi Bahasa Indonesia ✔
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonight&locale=id" />
 </p>
-
----
 
 ## 🎯 Target Belajar
 - Memahami JavaScript Lebih Dalam  
 - Membuat Mini-Project Secara Rutin  
 - Belajar API Dasar  
-- Membangun Portfolio Sederhana  
-
----
+- Membangun Portfolio Sederhana
 
 ## 📫 Kontak
 <p align="left">
@@ -61,6 +40,4 @@ Semua Masih Dasar, Tetapi Setiap Project Adalah Langkah Untuk Terus Belajar.
   </a>
 </p>
 
----
-
-<h3 align="center">✨ Terima Kasih Sudah Mengunjungi Profil Saya! ✨</h3>
+<h3 align="center">✨ Semoga Kode Mu Tidak Error Hari Ini ✨</h3>
