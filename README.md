@@ -6,9 +6,7 @@
 
 ## 🌙 Tentang Saya
 Saya Sedang Belajar Dasar-Dasar **HTML**, **CSS**, Dan **JavaScript**.  
-Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Memahami Cara Kerja Web.
-
----
+Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Memahami Cara Kerja We
 
 ## ⚡ Skill Yang Sedang Dipelajari
 <p align="left">
