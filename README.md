@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm ForkenZ 👋</h1>
+<p align="center">Beginner Web Developer • Learning Frontend Basics</p>
 
-<!--
-**ForkenZ/ForkenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔹 Tentang Saya
+Aku sedang belajar **HTML**, **CSS**, dan **JavaScript dasar**.  
+Masih pemula — tapi suka membuat project kecil untuk meningkatkan skill dan memahami cara kerja web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Skill yang Sedang Dipelajari
+---
+
+## 🔹 Projek Sederhana yang Sudah Dibuat
+- **Deteksi Mata** – MediaPipe + alarm ketika mata tertutup  
+- **Cek Sehat** – Web sederhana untuk cek kesehatan dasar  
+
+> *Semua project masih dasar, tapi terus belajar step-by-step.*
+
+---
+
+## 🔹 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ForkenZ&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🔹 Target Belajar Saat Ini
+- Memahami JavaScript lebih dalam  
+- Belajar membuat UI yang lebih rapi  
+- Membuat lebih banyak mini-project  
+
+---
+
+## 🔹 Kontak
+Jika ingin diskusi atau lihat project lainnya, silakan kunjungi profilku!
