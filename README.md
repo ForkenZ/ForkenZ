@@ -1,61 +1,68 @@
 <!-- TITLE -->
-<h1 align="center">Hi, I'm <span style="color:#7f5af0;">ForkenZ</span> 👋</h1>
-<p align="center">Beginner Web Developer • Learning HTML, CSS, and JavaScript</p>
+<h1 align="center">✨ Halo, Saya <span style="color:#8e5cff;">ForkenZ</span> ✨</h1>
+<p align="center">Pemula Yang Sedang Belajar HTML, CSS, Dan JavaScript</p>
 
 ---
 
 ## 🌙 Tentang Saya
-Aku sedang belajar dasar-dasar **HTML**, **CSS**, dan **JavaScript**.  
-Masih pemula — tapi aku suka mencoba membuat project kecil untuk latihan dan meningkatkan skill.
+Saya Sedang Belajar Dasar-Dasar **HTML**, **CSS**, Dan **JavaScript**.  
+Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Memahami Cara Kerja Web.
 
 ---
 
-## 🧩 Skill yang Sedang Dipelajari
-<p>
-  <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" />
+## ⚡ Skill Yang Sedang Dipelajari
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-%23FF6C37?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%230177B5?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+> Logo Sudah Neon Dan Berwarna ✔
+
+---
+
+## 🚀 Projek Saya
+- 🔹 **Deteksi Mata** — MediaPipe + Alarm Ketika Mata Tertutup  
+- 🔹 **Cek Sehat** — Website Sederhana Untuk Mengecek Kesehatan Dasar  
+
+Semua Masih Dasar, Tetapi Setiap Project Adalah Langkah Untuk Terus Belajar.
+
+---
+
+## 📊 Statistik GitHub (Versi Stabil)
+> Menggunakan Mirror Stabil Agar Selalu Muncul
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=ForkenZ&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Projek Sederhana
-- 🔹 **Deteksi Mata** — MediaPipe + alarm ketika mata tertutup  
-- 🔹 **Cek Sehat** — Web sederhana untuk cek kesehatan dasar  
+## 📈 Ringkasan Aktivitas
+> Versi Bahasa Indonesia ✔
 
-> Semua project masih dasar, tapi step-by-step aku terus belajar.
-
----
-
-## 📊 GitHub Stats (Stabil)
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrk4.vercel.app/api?username=ForkenZ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrk4.vercel.app/api/top-langs/?username=ForkenZ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Summary (Super Stabil)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForkenZ&theme=tokyonight&locale=id" />
 </p>
 
 ---
 
 ## 🎯 Target Belajar
-- Belajar JavaScript lebih dalam  
-- Membuat lebih banyak mini-project  
-- Mencoba belajar API sederhana  
+- Memahami JavaScript Lebih Dalam  
+- Membuat Mini-Project Secara Rutin  
+- Belajar API Dasar  
+- Membangun Portfolio Sederhana  
 
 ---
 
 ## 📫 Kontak
-<p>
+<p align="left">
   <a href="https://github.com/ForkenZ">
-    <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Terima kasih sudah mampir ke profilku! ✨</h3>
+<h3 align="center">✨ Terima Kasih Sudah Mengunjungi Profil Saya! ✨</h3>
