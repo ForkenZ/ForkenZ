@@ -13,7 +13,7 @@ Masih Pemula, Tetapi Saya Suka Membuat Project Kecil Untuk Melatih Logika Dan Me
 </p>
 
 ## 🚀 Projek Saya
-- 🔹 Deteksi Mata — MediaPipe + Alarm Ketika Mata Tertutup  
+- 🔹 ST-AI — Website Sederhana Yang Terhubung API AI Gratis
 - 🔹 Cek Sehat — Website Sederhana Untuk Mengecek Kesehatan Dasar
 
 ## 📊 Statistik GitHub
